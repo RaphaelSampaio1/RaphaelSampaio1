@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="800" alt="image" src="https://github.com/RaphaelSampaio1/RaphaelSampaio1/assets/149272144/11486491-35f1-4caa-9e03-842183f78bbe">## Hi there 👋
 
 <!--
 **RaphaelSampaio1/RaphaelSampaio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div>
+  <a href="https://beacons.ai/raphaelsampaio1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelsampaio1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsampaio1&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</div>

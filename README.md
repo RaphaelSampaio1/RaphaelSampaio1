@@ -2,7 +2,7 @@
 
 - 👉 Portifólio Profissional : https://sampaiodev.com/
 - 👉 Nome : Raphael Santos de Sampaio
-- 👉 Habilidades : Python | SQL | WordPress | Analise de Dados | Web Scraping | Pandas | HTML | CSS |
+- 👉 Habilidades : Python | SQL |  Pandas | Analise de Dados | Web Scraping | HTML | CSS | WordPress
 - 👉 Foco : Desenvolvedor Backend
 - 👉 Nacionalidade : Brasileiro
 - 👉 País de moradia : Brasil

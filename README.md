@@ -5,7 +5,7 @@
 - 👉 Habilidades : Python | SQL |  Pandas | Analise de Dados | Web Scraping | HTML | CSS | WordPress
 - 👉 Foco : Desenvolvedor Backend
 - 👉 Nacionalidade : Brasileiro
-- 👉 País de moradia : Brasil
+- 👉 País de moradia : Portugal
 
 ##
 <div>

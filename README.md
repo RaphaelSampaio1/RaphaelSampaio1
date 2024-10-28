@@ -1,11 +1,10 @@
-## BEM-VINDO(A) AO MEU PERFIL !
+## WELCOME TO MY PROFILE !
 
-- 👉 Portifólio Profissional : https://sampaiodev.com/
-- 👉 Nome : Raphael Santos de Sampaio
-- 👉 Habilidades : Python | SQL |  Pandas | Analise de Dados | Web Scraping | HTML | CSS | WordPress
-- 👉 Foco : Desenvolvedor Backend
-- 👉 Nacionalidade : Brasileiro
-- 👉 País de moradia : Portugal
+- 👉 Professional Portfolio : https://sampaiodev.com/
+- 👉 Name : Raphael Santos de Sampaio
+- 👉 Skills : Python | SQL |  Pandas | Data Science | Web Scraping | Automation | QA Tester | Power BI
+- 👉 Nationality : Brazilian
+- 👉 Country of Address : Portugal
 
 ##
 <div>

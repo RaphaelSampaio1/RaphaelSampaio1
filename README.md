@@ -2,7 +2,7 @@
 
 - 👉 Professional Portfolio : https://sampaiodev.com/
 - 👉 Name : Raphael Santos de Sampaio
-- 👉 Skills : Python | SQL |  Pandas | Data Science | Web Scraping | Automation | QA Tester | Power BI
+- 👉 Skills : Python | SQL | Data Science | Web Scraping | RPA Automation | Power BI
 - 👉 Nationality : Brazilian
 - 👉 Country of Address : Portugal
 

@@ -1,7 +1,7 @@
 ## WELCOME TO MY PROFILE !
 
-- 👉 Professional Portfolio : [Sampaio Dev](https://professional-portifolio-one.vercel.app/)
-- 👉 YouTube Channel: [Sampaio Dev](https://www.youtube.com/@SampaioDev)
+- 👉 Professional Portfolio : [Sampaio Dev Web](https://professional-portifolio-one.vercel.app/)
+- 👉 YouTube Channel: [Youtube Channel: Sampaio Dev](https://www.youtube.com/@SampaioDev)
 - 👉 Name : Raphael Santos de Sampaio
 - 👉 Skills : Python | AI | Web Scraping | RPA Automation | Blue Prism
 - 👉 Nationality : Brazilian
